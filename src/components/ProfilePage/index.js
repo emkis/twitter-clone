@@ -14,7 +14,12 @@ function ProfilePage() {
   return (
     <Container>
       <Banner>
-        <Avatar />
+        <Avatar>
+          <img
+            src="https://pbs.twimg.com/profile_images/1161799449791930369/dG9dIUvL_400x400.jpg"
+            alt="Avatar"
+          />
+        </Avatar>
       </Banner>
 
       <ProfileData>
