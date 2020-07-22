@@ -5,7 +5,9 @@
     },
     "extends": [
         "plugin:react/recommended",
-        "airbnb"
+        "airbnb",
+        "prettier",
+        "prettier/react"
     ],
     "parserOptions": {
         "ecmaFeatures": {
@@ -14,7 +16,7 @@
         "ecmaVersion": 11,
         "sourceType": "module"
     },
-    "plugins": ["react", "prettier"],
+    "plugins": ["react", "react-hooks", "prettier"],
     "rules": {
       "semi": ["error", "never"],
       "prettier/prettier": "error",
