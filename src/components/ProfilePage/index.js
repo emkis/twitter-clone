@@ -1,5 +1,6 @@
 import React from 'react'
 
+import Feed from '../Feed'
 import {
   Avatar,
   Banner,
@@ -55,6 +56,8 @@ function ProfilePage() {
           </span>
         </Followage>
       </ProfileData>
+
+      <Feed />
     </Container>
   )
 }
