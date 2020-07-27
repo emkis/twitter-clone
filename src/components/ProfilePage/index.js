@@ -1,13 +1,14 @@
 import React from 'react'
 
 import {
-  Container,
-  Banner,
   Avatar,
-  ProfileData,
-  LocationIcon,
+  Banner,
   CakeIcon,
+  Container,
+  EditButton,
   Followage,
+  LocationIcon,
+  ProfileData,
 } from './styles'
 
 function ProfilePage() {
@@ -23,7 +24,7 @@ function ProfilePage() {
       </Banner>
 
       <ProfileData>
-        {/* <EditButton outlined>Edit profile</EditButton> */}
+        <EditButton outlined>Edit profile</EditButton>
 
         <h1>Nicolas Jardim</h1>
         <h2>@emkis</h2>
