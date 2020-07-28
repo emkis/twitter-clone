@@ -7,11 +7,11 @@ function List({ title, elements }) {
     <Container>
       <Item>
         <Title>{title}</Title>
-
-        {elements.map((element, index) => (
-          <Item key={index}>{element}</Item>
-        ))}
       </Item>
+
+      {elements.map((element, index) => (
+        <Item key={index}>{element}</Item>
+      ))}
     </Container>
   )
 }
