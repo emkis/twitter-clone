@@ -11,6 +11,10 @@ import {
   ExploreIcon,
   NotificationsIcon,
   ProfileIcon,
+  ExitIcon,
+  Avatar,
+  BottomSide,
+  ProfileData,
 } from './styles'
 
 function MenuBar() {
@@ -44,6 +48,16 @@ function MenuBar() {
           <span>Tweet</span>
         </Button>
       </TopSide>
+
+      <BottomSide>
+        <Avatar />
+        <ProfileData>
+          <strong>Nicolas Jardim</strong>
+          <span>@emkisn</span>
+        </ProfileData>
+
+        <ExitIcon />
+      </BottomSide>
     </Container>
   )
 }
