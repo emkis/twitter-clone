@@ -4,9 +4,9 @@
 
 
 # :page_with_curl: about
-i made this project for fun and also to challenge myself in learn more about react.js and css
+i made this responsive twitter ui clone for study purposes.
 
-this project has no functionality only the visual (mobile, table, desktop) has been created, all styles were built from the ground up
+this project has no functionality, only the visuals (mobile, table, desktop) has been created, all styles were built from the ground up
 
 **[you can see live app here](https://emkis-twitter-clone.netlify.app)**
 
