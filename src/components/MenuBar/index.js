@@ -39,6 +39,10 @@ function MenuBar() {
           <ProfileIcon />
           <span>Profile</span>
         </MenuButton>
+
+        <Button>
+          <span>Tweet</span>
+        </Button>
       </TopSide>
     </Container>
   )
