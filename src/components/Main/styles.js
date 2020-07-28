@@ -26,7 +26,7 @@ export const Header = styled.div`
   padding: 8px 0 9px 13px;
   z-index: 2;
 
-  border-bottom: var(--outline);
+  border-bottom: 1px solid var(--outline);
   background: var(--primary);
 
   > button {
