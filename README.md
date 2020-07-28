@@ -1,4 +1,4 @@
-# twitter clone 
+# :bird: twitter clone
 
 ![twitter clone](https://raw.githubusercontent.com/emkis/twitter-clone/master/.github/app-preview.png)
 
@@ -6,8 +6,7 @@
 # :page_with_curl: about
 i made this project for fun and also to challenge myself in learn more about react.js and css
 
-
-this project has no functionality only the visual (mobile, table, desktop) has been created
+this project has no functionality only the visual (mobile, table, desktop) has been created, all styles were built from the ground up
 
 **[you can see live app here](https://emkis-twitter-clone.netlify.app)**
 
@@ -15,7 +14,7 @@ this project has no functionality only the visual (mobile, table, desktop) has b
 this project was developed with the following technologies:
 
 - [ReactJS](https://github.com/facebook/react/)
-- [Styled Components](https://styled-components.com) *styles built from the ground up*
+- [Styled Components](https://styled-components.com)
 
 # :electric_plug: how to use
 to clone this repository and run this app, you'll need **[git](https://git-scm.com)** and **[node.js](https://nodejs.org/en/)** installed on your computer.
